@@ -1,0 +1,30 @@
+div{
+    background-color: beige;
+}
+p{
+    color: grey;
+}
+h1{
+    color:red;
+    align-items: center;
+}
+h2{
+    color: brown;
+    font: italic; 
+}
+h3{
+    color:black;
+    font: bold;
+}
+h4{
+    color: blueviolet;
+    font: bold;
+}
+h5{
+    color: crimson;
+    align-items: center;
+}
+h6{
+    color: blue;
+    font: italic;
+}
